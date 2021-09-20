@@ -28,8 +28,8 @@ SimCLR then computes the image representation using a convolutional neural netwo
 Actually I’m also very interested in many other applications of Self-supervision for graph data structures, such as placing image patches in the right place mentioned in 2.2.  
 For further research, I want to spend more time finding more open source research and duplicate their results to make comparison, and find where my interest is.
 # 5. References
-[1]Longlong Jing and Yingli Tian, Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey, arXiv:1902.06162v1 [cs.CV] 16 Feb 2019.  
+[1]Longlong Jing and Yingli Tian, Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey, arXiv:1902.06162v1 [cs.CV] 16 Feb 2019. https://arxiv.org/abs/1902.06162    
 [2]R. Girshick, J. Donahue, T. Darrell, and J. Malik, “Rich feature hierarchies for accurate object detection and semantic segmentation,” in CVPR, pp. 580–587, 2014.  
 [3]R. Girshick, “Fast R-CNN,” in ICCV, 2015.  
-[4]S. Ren, K. He, R. Girshick, and J. Sun, “Faster r-cnn: Towards realtime object detection with region proposal networks,” in NIPS, pp. 91–99, 2015.  
-[5]J. Long, E. Shelhamer, and T. Darrell, “Fully convolutional networks for semantic segmentation,” in CVPR, pp. 3431–3440, 2015.  
+[4]S. Ren, K. He, R. Girshick, and J. Sun, “Faster r-cnn: Towards realtime object detection with region proposal networks,” in NIPS, pp. 91–99, 2015.  
+[5]J. Long, E. Shelhamer, and T. Darrell, “Fully convolutional networks for semantic segmentation,” in CVPR, pp. 3431–3440, 2015.  
